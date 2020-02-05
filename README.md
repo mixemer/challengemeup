@@ -7,7 +7,7 @@ This app allows you create and monitor your challenges. As we know, challenges m
 
 Welcome page                 |Add a challenge                 | View challenge
 :---------------------------:|:------------------------------:|:------------------------------:
-![](ScreenShots/6.png)      |  ![](ScreenShots/2.PNG) | ![](ScreenShots/IMG_0851.PNG)
+![](ScreenShots/1.PNG)      |  ![](ScreenShots/2.PNG) | ![](ScreenShots/IMG_0851.PNG)
 
 
 
