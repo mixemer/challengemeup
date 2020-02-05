@@ -17,4 +17,4 @@ View challenge               |  See challenge ideas           | Calender view of
 
 ### Support or Contact
 
-Having trouble with Pages? Contact us at challengemeup.dev@gmail.com and we’ll help you sort it out.
+Need to reach out to us? Contact us at challengemeup.dev@gmail.com and we’ll be happy to support you.
