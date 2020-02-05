@@ -1,4 +1,4 @@
-# <img src="https://github.com/mixemer/challengemeup.github.io/blob/master/ScreenShots/Logo%20App%20.png" width="70"> ## Welcome ChallengeMeUp
+# <img src="https://github.com/mixemer/challengemeup.github.io/blob/master/ScreenShots/Logo%20App%20.png" width="70"> Welcome ChallengeMeUp
 
 This app allows you create and monitor your challenges. As we know, challenges motivate us, show who we are and what we are capable of. So, start using this app to be more productive by challenging yourself to be stronger and well-organized person.
 
@@ -6,7 +6,7 @@ This app allows you create and monitor your challenges. As we know, challenges m
 
 Welcome Page                 |Share your favourite books with the world | View 3D models of images on your books
 :---------------------------:|:------------------------------:|:------------------------------:
-![](ScreenShots/1.png)      |  ![](ScreenShots/2.png) | ![](ScreenShots/3.png)
+![](ScreenShots/1.PNG)      |  ![](ScreenShots/2.png) | ![](ScreenShots/3.png)
 
 
 
