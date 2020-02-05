@@ -4,13 +4,13 @@ This app allows you create and monitor your challenges. As we know, challenges m
 
 ### Screen Shots
 
-Welcome Page                 |Share your favourite books with the world | View 3D models of images on your books
+Welcome page                 |Add a challenge                 | View challenge
 :---------------------------:|:------------------------------:|:------------------------------:
 ![](ScreenShots/1.PNG)      |  ![](ScreenShots/2.PNG) | ![](ScreenShots/IMG_0851.PNG)
 
 
 
-1                            |  2                             | 3
+View challenge               |  See challenge ideas           | Calender view of your Challenges
 :---------------------------:|:------------------------------:|:------------------------------:
 ![](ScreenShots/3.PNG)      |  ![](ScreenShots/4.PNG)         | ![](ScreenShots/5.PNG) 
 
