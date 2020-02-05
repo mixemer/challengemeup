@@ -6,13 +6,13 @@ This app allows you create and monitor your challenges. As we know, challenges m
 
 Welcome Page                 |Share your favourite books with the world | View 3D models of images on your books
 :---------------------------:|:------------------------------:|:------------------------------:
-![](ScreenShots/1.PNG)      |  ![](ScreenShots/2.PNG) | ![](ScreenShots/3.PNG)
+![](ScreenShots/1.PNG)      |  ![](ScreenShots/2.PNG) | ![](ScreenShots/IMG_0851.PNG)
 
 
 
 1                            |  2                             | 3
 :---------------------------:|:------------------------------:|:------------------------------:
-![](ScreenShots/4.PNG)      |  ![](images/Earth.PNG)         | ![](images/Heart.PNG)
+![](ScreenShots/3.PNG)      |  ![](ScreenShots/4.PNG)         | ![](ScreenShots/5.PNG) 
 
 ### Support or Contact
 
