@@ -1,4 +1,4 @@
-![](ScreenShots/logo.png | width=100) 
+![[ScreenShots/logo.png | width=100]] 
 # Welcome ChallengeMeUp
 
 This app allows you create and monitor your challenges. As we know, challenges motivate us, show who we are and what we are capable of. So, start using this app to be more productive by challenging yourself to be stronger and well-organized person.
