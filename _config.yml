@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: ChallengeMeUp
 show_downloads: false
 description: Create your own challenges and achieve your goals.
+navbar-col: "#F5F5F5"
