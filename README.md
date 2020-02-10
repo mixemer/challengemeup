@@ -3,7 +3,7 @@
 
 <a href='https://play.google.com/store/apps/details?id=com.mehmetsahin.challenge_app'><img alt='Get it on Google Play' height="40px" src='img/BadgeGooglePlay.png'/></a> || <a href='https://apps.apple.com/us/app/challengemeup/id1493870317?ls=1'><img alt='Get it on the App Store' height="48px" src='img/BadgeiOS.png'/></a> 
 
-src='img/BadgeGooglePlay.png'/></a> || <a href='https://apps.apple.com/us/app/challengemeup/id1493870317?ls=1'><img height="48px" src='img/BadgeiOS.png'/></a> 
+<a href='https://apps.apple.com/us/app/challengemeup/id1493870317?ls=1'><img height="48px" src='img/BadgeiOS.png'/></a> 
 
 
 This app allows you create and monitor your challenges. As we know, challenges motivate us, show who we are and what we are capable of. So, start using this app to be more productive by challenging yourself to be stronger and well-organized person.
